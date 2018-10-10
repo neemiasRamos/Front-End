@@ -1,3 +1,5 @@
+# Caixa de pesquisa
+
 ## Hover
 Estado do input, quando o cursor do mouse esta sob o elemtento
 ```
@@ -31,3 +33,15 @@ Estado do input, quando o cursor do mouse NÃO esta sob o elemtento
 *Note que o width está com 0 pixels
 
 ![Hover on](https://github.com/neemiasRamos/Front-End/blob/master/caixa%20de%20pesquisa/hover-out.png)
+
+
+## Executar
+
+* Clone o repositório
+* Abra o arquivo _index.html_ com onavegador de sua preferência 
+
+OU
+
+* Baixe os arquivos _index.html_ e _estilo.css_
+* Salve-os na mesma pasta
+* Abra o arquivo _index.html_ com onavegador de sua preferência 
