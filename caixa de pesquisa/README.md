@@ -44,4 +44,4 @@ OU
 
 * Baixe os arquivos _index.html_ e _estilo.css_
 * Salve-os na mesma pasta
-* Abra o arquivo _index.html_ com onavegador de sua preferência 
+* Abra o arquivo _index.html_ com o navegador de sua preferência 
