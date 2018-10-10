@@ -29,4 +29,5 @@ Estado do input, quando o cursor do mouse NÃO esta sob o elemtento
 ```
 
 *Note que o width está com 0 pixels
+
 ![Hover on](https://github.com/neemiasRamos/Front-End/blob/master/caixa%20de%20pesquisa/hover-out.png)
