@@ -24,3 +24,14 @@ Utilizando "@keyframes mouse"
 ![stack Overflow](https://github.com/neemiasRamos/Front-End/blob/master/Mouse%20scroll%20animado/3.png)
 
 ![stack Overflow](https://github.com/neemiasRamos/Front-End/blob/master/Mouse%20scroll%20animado/4.png)
+
+## Executar
+
+* Clone o repositório
+* Abra o arquivo _index.html_ com onavegador de sua preferência 
+
+OU
+
+* Baixe os arquivos _index.html_ e _estilo.css_
+* Salve-os na mesma pasta
+* Abra o arquivo _index.html_ com onavegador de sua preferência 
