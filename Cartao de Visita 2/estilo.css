@@ -1,0 +1,66 @@
+@import"http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css";
+
+body{
+	margin: 0;
+	padding: 0;
+	background: url(bg.jpg) no-repeat;
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif; 
+}
+
+.card{
+	width: 280px;
+	padding: 20px;
+	background: white;
+	overflow: hidden;
+	text-align: center;
+	position: absolute;
+	top: 20%;
+	left: 40%;
+	transform: translate(-50%; -50%);
+	border-radius: 4px;
+	box-shadow: 1px 1px 12px black;
+}
+
+.img{
+	width: 150px;
+	height: 150px;
+	overflow: hidden;
+	border-radius: 50%;
+	margin: 28px auto;
+}
+
+.img img{
+	width: 100%;
+	height: 100%;
+}
+
+h1{
+	color: #e74c3c;
+	margin: 20px 0 0 0;
+	font-size: 22px;
+	text-transform: uppercase;
+}
+
+span{
+	font-weight: 700;
+}
+
+.media a{
+	width: 40px;
+	font-size: 30px;
+	display: inline-block;
+	margin: 0 8px;
+}
+
+.fb{
+	color: #4862a3;
+}
+
+.tw{
+	color: #00aff0;
+}
+
+.ws{
+	color: #01924b;
+}
